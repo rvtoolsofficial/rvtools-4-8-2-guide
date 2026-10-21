@@ -11,6 +11,8 @@
 
 [![Download RVTools 4.8.2](https://img.shields.io/badge/Download-RVTools%204.8.2-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rvtoolsofficial/rvtools-4-8-2-download/releases/download/v4.8.2/RVTools-4.8.2.zip)
 
+[Download latest version from Releases](https://github.com/rvtoolsofficial/rvtools-4-8-2-download/releases/latest)
+
 [Release details, source, and checksums](https://github.com/rvtoolsofficial/rvtools-4-8-2-download)
 
 The ZIP contains the RVTools 4.8.2 MSI obtained from Dell's distribution URL. The installer's Authenticode signature was verified as valid and signed by Dell Technologies Inc. This is an independent authorized mirror, not an official Dell support channel. Review the applicable license and distribution terms before use.
